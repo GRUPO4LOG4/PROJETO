@@ -2,14 +2,10 @@
 ## Aeroporto de São José dos Campos (SJK)
 <p align="center">
 API 4° Semestre - Logística Manhã
-</p>
-
-<p align="center>  
-
-  <img src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png">
-<img src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
-  
-</p>
+  <div>
+<img align="center" alt="GRUPO4LOG4" height="100" width="180" src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png">
+<img align="center" alt="GRUPO4LOG4" height="180" width="160" src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
+  </div>
 
 ##
 
