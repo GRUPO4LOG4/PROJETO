@@ -14,9 +14,7 @@ API 4° Semestre - Logística Manhã
 - O projeto aborda o potencial de movimentação de cargas no Aeroporto de São José dos Campos (SJK) através de dados de importações e exportações de municípios. As análise voltadas para os dados de importação e exportação que contribuem as empresas a tomarem decisões mais assertiva sobre a logística de mercado.
 ### OBJETIVO
 - O objetivo desse projeto é criar um sistema de otimização da movimentação de cargas no Aeroporto de São José dos Campos (SJK) por meio de análise de dados de importações e exportações de municípios próximos e relevantes. Através dessa análise de dados, pretendemos atingir oportunidades para expandir e melhorar a capacidade de armazenamento de cargas no Aeroporto de SJK, a fim de atender ás crescentes demandas.
-### A EMPRESA
-> (logo da empresa)
-> (exemplo de objetivo da empresa)
+  
 ### A EQUIPE
 <div>
   <img alt="aerolog" src="https://media.discordapp.net/attachments/1024726813685067976/1159519396985831535/aerolog.png">
