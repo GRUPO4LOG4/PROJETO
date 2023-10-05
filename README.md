@@ -18,6 +18,11 @@ API 4° Semestre - Logística Manhã
 > (exemplo de objetivo da empresa)
 ### A EQUIPE
 > (fotos dos integrantes e posições de cargo de cada um)
+<div>
+  <img alt="aerolog" src="https://media.discordapp.net/attachments/1024726813685067976/1159519396985831535/aerolog.png">
+</div>
+
+
 ### CRONOGRAMA DAS SPRINTS
 > Cronograma
 
