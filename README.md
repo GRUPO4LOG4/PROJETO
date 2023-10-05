@@ -17,7 +17,7 @@ API 4° Semestre - Logística Manhã
   
 ### A EQUIPE
 <div>
-  <img alt="aerolog" src="https://media.discordapp.net/attachments/1024726813685067976/1159519396985831535/aerolog.png">
+  <img alt="aerolog" src="https://cdn.discordapp.com/attachments/1024726813685067976/1159551697379668008/aerolog.png">
 </div>
 
 # Autores
