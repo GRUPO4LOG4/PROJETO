@@ -3,8 +3,9 @@
 <p align="center">
 API 4° Semestre - Logística Manhã
   <div>
-<img align="center" alt="GRUPO4LOG4" height="100" width="180" src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png">
-<img align="center" alt="GRUPO4LOG4" height="180" width="160" src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
+<img align="center" alt="aerolog" height="100" width="180" src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png">
+<img align="center" alt="aerolog" height="180" width="160" src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
+<img align="center" alt="aerolog" height="200" width="190" src="https://cdn.discordapp.com/attachments/1024726813685067976/1159520631419850772/governo-do-estado-de-sao-paulo-logo.png">
   </div>
 
 ##
