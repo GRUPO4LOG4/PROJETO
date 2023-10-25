@@ -51,7 +51,7 @@ Sprint 0 - 04/10/2023 á 25/10/2023
 
 Sprint 1 - 04/10/2023 á 25/10/2023
 - Jira Backlog
-  <img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/image.png">
+  <img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/Capturar.PNG">
 </div>
 
 ### DASHBOARD SPRINTS 1
