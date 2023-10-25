@@ -48,3 +48,13 @@ Sprint 0 - 04/10/2023 á 25/10/2023
   <img align="left" alt="GRUPO4LOG4-JIRA" height="35" width="40" src="https://cdn.discordapp.com/attachments/1024726499418460233/1154749487424749658/PowerBI-Icon-Transparent-768x761.png">
     
   </div>
+
+Sprint 1 - 04/10/2023 á 25/10/2023
+- Jira Backlog
+  <img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/image.png">
+</div>
+
+### DASHBOARD SPRINTS 1
+
+[![Alt text](https://img.youtube.com/vi/X_1dwnPhGu4/0.jpg)](https://www.youtube.com/watch?v=X_1dwnPhGu4)
+
