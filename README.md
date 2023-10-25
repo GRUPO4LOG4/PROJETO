@@ -52,7 +52,6 @@ Sprint 0 - 04/10/2023 á 25/10/2023
   
 
 Sprint 1 - 25/10/2023 á 22/11/2023
-- Jira Backlog
 
 <div id="top"></div>
 <p align="center">
