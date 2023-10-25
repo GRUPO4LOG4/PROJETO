@@ -49,19 +49,22 @@ Sprint 0 - 04/10/2023 á 25/10/2023
     
   </div>
 
-Sprint 2 - 25/10/2023 á 22/11/2023
+  
+
+Sprint 1 - 25/10/2023 á 22/11/2023
 - Jira Backlog
   <img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/Capturar.PNG">
 </div>
 
-Sprint 1 - 04/10/2023 á 25/10/2023
-- Jira Backlog
-
-<img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/Capturar.PNG 2.PNG">
-</div>
 
 
 ### DASHBOARD SPRINTS 1
 
 [![Alt text](https://img.youtube.com/vi/X_1dwnPhGu4/0.jpg)](https://www.youtube.com/watch?v=X_1dwnPhGu4)
 
+
+Sprint 2 - 04/10/2023 á 25/10/2023
+- Jira Backlog
+
+<img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/Capturar.PNG 2.PNG">
+</div>
