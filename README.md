@@ -53,7 +53,12 @@ Sprint 0 - 04/10/2023 á 25/10/2023
 
 Sprint 1 - 25/10/2023 á 22/11/2023
 - Jira Backlog
-  <img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/Capturar.PNG">
+
+<div id="top"></div>
+<p align="center">
+| <img src = "./Capturar.PNG" width="70%" height="70%">
+<p align="center">
+
 </div>
 
 
@@ -66,5 +71,9 @@ Sprint 1 - 25/10/2023 á 22/11/2023
 Sprint 2 - 04/10/2023 á 25/10/2023
 - Jira Backlog
 
-<img align="center" alt="GRUPO4LOG4" src="https://cdn.discordapp.com/attachments/1024726813685067976/1158374408608546907/Capturar.PNG 2.PNG">
+<div id="top"></div>
+<p align="center">
+| <img src = "./Capturar.PNG 2.PNG" width="70%" height="70%">
+<p align="center">
+
 </div>
