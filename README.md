@@ -54,7 +54,7 @@ Sprint 1 - 04/10/2023 á 25/10/2023
 
 <div id="top"></div>
 <p align="center">
-| <img src = "./Capturar.PNG" width="70%" height="70%">
+<img src = "./Capturar.PNG" width="70%" height="70%">
 <p align="center">
 
 </div>
@@ -71,7 +71,7 @@ Sprint 2 - 25/10/2023 á 22/11/2023
 
 <div id="top"></div>
 <p align="center">
-| <img src = "./Capturar.PNG 2.PNG" width="70%" height="70%">
+<img src = "./Capturar.PNG 2.PNG" width="70%" height="70%">
 <p align="center">
 
 </div>
