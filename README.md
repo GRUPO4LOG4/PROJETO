@@ -67,3 +67,19 @@ Sprint 2 - 25/10/2023 á 22/11/2023
 <p align="center">
 
 </div>
+
+### 22/11/2023
+- Sprint Final
+
+  Jira Backlog
+<div>
+  <img align="center" alt="GRUPO4LOG4" src="https://media.discordapp.net/attachments/1024726813685067976/1176713627936489492/Captura_de_tela_2023-11-21_233112.png">
+
+</div>
+
+<div>
+  
+
+  - Power BI Exportações
+<img align="center" alt="GRUPO4LOG4" src="https://media.discordapp.net/attachments/1024726813685067976/1176713627642896395/Captura_de_tela_2023-11-21_232306.png">
+</div>
