@@ -82,4 +82,12 @@ Sprint 2 - 25/10/2023 á 22/11/2023
 
   - Power BI Exportações
 <img align="center" alt="GRUPO4LOG4" src="https://media.discordapp.net/attachments/1024726813685067976/1176713627642896395/Captura_de_tela_2023-11-21_232306.png">
+
+## Video Importação e Exportação
+
+
+https://github.com/GRUPO4LOG4/PROJETO/assets/129226911/a22a01cf-9ab5-42e8-bebd-dd9909f42a3e
+
+
+
 </div>
