@@ -53,9 +53,17 @@ Sprint 1 - 04/10/2023 á 25/10/2023
 
 
 
-### DASHBOARD SPRINTS 1
+## DASHBOARD SPRINTS 1
 
-[![Alt text](https://img.youtube.com/vi/X_1dwnPhGu4/0.jpg)](https://www.youtube.com/watch?v=X_1dwnPhGu4)
+
+
+
+
+https://github.com/GRUPO4LOG4/PROJETO/assets/129226911/835a5302-9996-4899-9604-ce1cd74016db
+
+
+
+
 
 
 Sprint 2 - 25/10/2023 á 22/11/2023
